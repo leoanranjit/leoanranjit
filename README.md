@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **[My Second Teacher(iOS App)](https://www.mysecondteacher.com)**
 
-- 💬 Ask me about - **Swift, Cocoapods, Xcode**
+- 💬 Ask me about **Swift, Cocoapods, Xcode**
 
-- 📫 How to reach me **leoanranjit1991@gmail.com**
+- 📫 How to reach me - **leoanranjit1991@gmail.com**
 
 - 👨🏻‍💻 My Gitlab - **[leoan.dev](https://gitlab.com/leoan.dev)**
 
