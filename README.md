@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoanranjit&label=Profile%20views&color=0e75b6&style=flat" alt="leoanranjit" /> </p>
 
-- 🔭 I’m currently working on [My Second Teacher(iOS App)](https://www.mysecondteacher.com)
+- 🔭 I’m currently working on **[My Second Teacher(iOS App)](https://www.mysecondteacher.com)**
 
 - 💬 Ask me about **Swift, Cocoapods, Xcode**
 
 - 📫 How to reach me **leoanranjit1991@gmail.com**
 
-- 👨🏻‍💻 My Gitlab [leoan.dev](https://gitlab.com/leoan.dev)
+- 👨🏻‍💻 My Gitlab **[leoan.dev](https://gitlab.com/leoan.dev)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1llmOnMN7wrbMKnD7FQXe1lFJ53_OMS2s/view?usp=sharing](https://drive.google.com/file/d/1llmOnMN7wrbMKnD7FQXe1lFJ53_OMS2s/view?usp=sharing)
 
