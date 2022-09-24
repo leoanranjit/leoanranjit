@@ -9,11 +9,13 @@
 
 - 📫 How to reach me **leoanranjit1991@gmail.com**
 
+- 👨🏻‍💻 My Gitlab [leoan.dev](https://gitlab.com/leoan.dev)
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1llmOnMN7wrbMKnD7FQXe1lFJ53_OMS2s/view?usp=sharing](https://drive.google.com/file/d/1llmOnMN7wrbMKnD7FQXe1lFJ53_OMS2s/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leoanranjit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoanranjit" height="30" width="40" /></a>
+<a href="https://gitlab.com/leoan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoanranjit" height="30" width="40" /></a>
 <a href="https://instagram.com/leoanranjit.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leoanranjit.dev" height="30" width="40" /></a>
 </p>
 
